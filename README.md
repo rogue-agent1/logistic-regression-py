@@ -1,1 +1,5 @@
-# logistic-regression-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 logistic_regression.py\n```\n
+# logistic-regression-py
+
+Logistic regression with gradient descent
+
+Zero-dependency Python. Stdlib only.
